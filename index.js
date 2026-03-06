@@ -13,7 +13,7 @@ app.get("/teste", (req, res)=>{
     res.send("Olá Mundo");
 })
 
-app.listen(3008, (res)=>{
+app.listen(3001, (res)=>{
     console.log ("Michele o Servidor on");
 })
 
